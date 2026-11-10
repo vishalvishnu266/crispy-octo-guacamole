@@ -9,35 +9,91 @@
 CSAT is **qualifying** (you need **66/200**, i.e., 33%), but **many serious aspirants fail it**. The Number System underlies almost every Quant topic. This week: **classification, divisibility, factors, HCF/LCM, unit digits, remainders, and series sums**.
 
 ## 1.1 Classification of numbers
-| Type | Definition | Key facts / traps |
-|---|---|---|
-| Natural (N) | 1, 2, 3, … | **0 is not natural** |
-| Whole (W) | 0, 1, 2, … | — |
-| Integers (Z) | …, −2, −1, 0, 1, 2, … | — |
-| Rational (Q) | p/q, q ≠ 0 | **Terminating or recurring** decimals (e.g., 0.333…) |
-| Irrational | Non-terminating, non-recurring | √2, π, e. ⚠️ **22/7 is rational** (it is only an approximation of π) |
-| Prime | Exactly 2 factors | **2 is the only even prime**. **1 is neither prime nor composite**. **25 primes up to 100** |
-| Composite | More than 2 factors | Smallest composite = **4** |
-| Co-prime | HCF = 1 | (8, 15) are co-prime even though neither is prime |
+
+**Natural (N)**
+- _Definition_: 1, 2, 3, …
+- _Key facts / traps_: **0 is not natural**
+
+**Whole (W)**
+- _Definition_: 0, 1, 2, …
+- _Key facts / traps_: —
+
+**Integers (Z)**
+- _Definition_: …, −2, −1, 0, 1, 2, …
+- _Key facts / traps_: —
+
+**Rational (Q)**
+- _Definition_: p/q, q ≠ 0
+- _Key facts / traps_: **Terminating or recurring** decimals (e.g., 0.333…)
+
+**Irrational**
+- _Definition_: Non-terminating, non-recurring
+- _Key facts / traps_: √2, π, e. ⚠️ **22/7 is rational** (it is only an approximation of π)
+
+**Prime**
+- _Definition_: Exactly 2 factors
+- _Key facts / traps_: **2 is the only even prime**. **1 is neither prime nor composite**. **25 primes up to 100**
+
+**Composite**
+- _Definition_: More than 2 factors
+- _Key facts / traps_: Smallest composite = **4**
+
+**Co-prime**
+- _Definition_: HCF = 1
+- _Key facts / traps_: (8, 15) are co-prime even though neither is prime
 
 🧠 **Primes up to 100 (25):** 2 3 5 7 · 11 13 17 19 · 23 29 · 31 37 · 41 43 47 · 53 59 · 61 67 · 71 73 79 · 83 89 · 97 (count per decade: 4-4-2-2-3-2-2-3-2-1)
 **Quick prime test for N:** check divisibility by the primes ≤ √N.
 
 ## 1.2 Divisibility rules 📌
-| By | Rule | Example |
-|---|---|---|
-| 2 | Last digit even | 3,456 ✓ |
-| 3 | **Sum of digits** divisible by 3 | 1,236 → 12 ✓ |
-| 4 | **Last 2 digits** divisible by 4 | 7,316 → 16 ✓ |
-| 5 | Last digit 0 or 5 | — |
-| 6 | Divisible by **2 and 3** | — |
-| 7 | **Double the last digit and subtract it** from the rest; repeat | 343 → 34 − 6 = 28 ✓ |
-| 8 | **Last 3 digits** divisible by 8 | 5,128 → 128 ✓ |
-| 9 | **Sum of digits** divisible by 9 | 7,281 → 18 ✓ |
-| 10 | Last digit 0 | — |
-| 11 | **(Sum of odd-place digits) − (sum of even-place digits)** = 0 or a multiple of 11 | 918,082 → (2+0+1) − (8+8+9) = −22 ✓ |
-| 12 | Divisible by **3 and 4** | — |
-| Composite n | Divisible by its **co-prime factors** (e.g., 15 → 3 and 5; 18 → 2 and 9, **not** 3 and 6) | ⚠️ The factors must be **co-prime** |
+
+**Divisible by 2**
+- _Rule_: Last digit even
+- _Example_: 3,456 ✓
+
+**Divisible by 3**
+- _Rule_: **Sum of digits** divisible by 3
+- _Example_: 1,236 → 12 ✓
+
+**Divisible by 4**
+- _Rule_: **Last 2 digits** divisible by 4
+- _Example_: 7,316 → 16 ✓
+
+**Divisible by 5**
+- _Rule_: Last digit 0 or 5
+- _Example_: —
+
+**Divisible by 6**
+- _Rule_: Divisible by **2 and 3**
+- _Example_: —
+
+**Divisible by 7**
+- _Rule_: **Double the last digit and subtract it** from the rest; repeat
+- _Example_: 343 → 34 − 6 = 28 ✓
+
+**Divisible by 8**
+- _Rule_: **Last 3 digits** divisible by 8
+- _Example_: 5,128 → 128 ✓
+
+**Divisible by 9**
+- _Rule_: **Sum of digits** divisible by 9
+- _Example_: 7,281 → 18 ✓
+
+**Divisible by 10**
+- _Rule_: Last digit 0
+- _Example_: —
+
+**Divisible by 11**
+- _Rule_: **(Sum of odd-place digits) − (sum of even-place digits)** = 0 or a multiple of 11
+- _Example_: 918,082 → (2+0+1) − (8+8+9) = −22 ✓
+
+**Divisible by 12**
+- _Rule_: Divisible by **3 and 4**
+- _Example_: —
+
+**Composite n**
+- _Rule_: Divisible by its **co-prime factors** (e.g., 15 → 3 and 5; 18 → 2 and 9, **not** 3 and 6)
+- _Example_: ⚠️ The factors must be **co-prime**
 
 ## 1.3 Factors, HCF, LCM 📌
 - If **N = aᵖ × bᵠ × cʳ** (prime factorisation):
@@ -54,15 +110,34 @@ CSAT is **qualifying** (you need **66/200**, i.e., 33%), but **many serious aspi
   - Smallest number that, when divided by x, y, z, leaves remainders that are each **k less** than the divisor = **LCM − k**
 
 ## 1.4 Unit digit (cyclicity) 📌
-| Last digit | Cycle | Period |
-|---|---|---|
-| 0, 1, 5, 6 | Always itself | 1 |
-| 4 | 4, 6 (odd power → 4, even → 6) | 2 |
-| 9 | 9, 1 (odd → 9, even → 1) | 2 |
-| 2 | 2, 4, 8, 6 | 4 |
-| 3 | 3, 9, 7, 1 | 4 |
-| 7 | 7, 9, 3, 1 | 4 |
-| 8 | 8, 4, 2, 6 | 4 |
+
+**Last digit 0, 1, 5, 6**
+- _Cycle_: Always itself
+- _Period_: 1
+
+**Last digit 4**
+- _Cycle_: 4, 6 (odd power → 4, even → 6)
+- _Period_: 2
+
+**Last digit 9**
+- _Cycle_: 9, 1 (odd → 9, even → 1)
+- _Period_: 2
+
+**Last digit 2**
+- _Cycle_: 2, 4, 8, 6
+- _Period_: 4
+
+**Last digit 3**
+- _Cycle_: 3, 9, 7, 1
+- _Period_: 4
+
+**Last digit 7**
+- _Cycle_: 7, 9, 3, 1
+- _Period_: 4
+
+**Last digit 8**
+- _Cycle_: 8, 4, 2, 6
+- _Period_: 4
 
 **Method:** find the power mod 4. If the remainder is 0, use the **4th** term of the cycle.
 
@@ -101,14 +176,30 @@ CSAT is **qualifying** (you need **66/200**, i.e., 33%), but **many serious aspi
 # PART 2 – CSAT: READING COMPREHENSION (RC)
 
 ## 2.1 UPSC RC question types and how to crack them 📌
-| Type | Asked as | Strategy |
-|---|---|---|
-| **Main idea / central theme** | "Which best reflects the crux of the passage?" | Find the **thesis** (usually in the first or last 2 lines). Reject options that are **too narrow** (one detail) or **too broad** (beyond the passage) |
-| **Inference** | "Which can be inferred / is the most logical inference?" | It must **follow from** the passage without being stated outright. **No outside knowledge** |
-| **Assumption** | "Which is a valid assumption?" | An **unstated premise** the author **must** believe for the argument to work. **Negation test:** negate it; if the argument collapses, it is an assumption |
-| **Corollary / implication** | "What is the most rational corollary?" | A natural **consequence** of the main argument |
-| **Author's tone / attitude** | "The author's view on X is…" | Look at **adjectives and qualifiers** ("merely", "yet", "however") |
-| **Vocabulary in context** | "What does 'X' mean in the passage?" | Meaning **in context**, not the dictionary meaning |
+
+**Main idea / central theme**
+- _Asked as_: "Which best reflects the crux of the passage?"
+- _Strategy_: Find the **thesis** (usually in the first or last 2 lines). Reject options that are **too narrow** (one detail) or **too broad** (beyond the passage)
+
+**Inference**
+- _Asked as_: "Which can be inferred / is the most logical inference?"
+- _Strategy_: It must **follow from** the passage without being stated outright. **No outside knowledge**
+
+**Assumption**
+- _Asked as_: "Which is a valid assumption?"
+- _Strategy_: An **unstated premise** the author **must** believe for the argument to work. **Negation test:** negate it; if the argument collapses, it is an assumption
+
+**Corollary / implication**
+- _Asked as_: "What is the most rational corollary?"
+- _Strategy_: A natural **consequence** of the main argument
+
+**Author's tone / attitude**
+- _Asked as_: "The author's view on X is…"
+- _Strategy_: Look at **adjectives and qualifiers** ("merely", "yet", "however")
+
+**Vocabulary in context**
+- _Asked as_: "What does 'X' mean in the passage?"
+- _Strategy_: Meaning **in context**, not the dictionary meaning
 
 ### ⚠️ Elimination rules (they win most RC marks)
 1. **Extreme words** (always, never, only, all, completely) are usually wrong.
@@ -166,36 +257,79 @@ Select: (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
 
 # ⚠️ ANSWERS: CSAT (check only after attempting)
 
-| Q | Answer | Working |
-|---|---|---|
-| 1 | **3** | Cycle of 7: 7, 9, 3, 1. 95 mod 4 = 3, so the 3rd term = **3** |
-| 2 | **24** | 360 = 2³ × 3² × 5 → (3+1)(2+1)(1+1) = 24 |
-| 3 | **24** | ⌊100/5⌋ + ⌊100/25⌋ = 20 + 4 |
-| 4 | **60** | (12 × 360)/72 = 60. Check: HCF(72, 60) = 12 ✓, LCM = 360 ✓ |
-| 5 | **65** | LCM(12, 15, 20) = 60, plus 5 |
-| 6 | **3** | 2⁴ ≡ 1 (mod 5). 31 = 4×7 + 3, so 2³ = 8 ≡ **3** |
-| 7 | **Yes, 83,462** | Alternating sum = −22, a multiple of 11. 918,082 ÷ 11 = 83,462 |
-| 8 | **728** | Terms 14, 21, …, 98: n = 13. Sum = 13 × (14 + 98)/2 = 13 × 56 |
-| 9 | **33** | Divisible by 2: 50, by 3: 33, by 6: 16. Union = 67, so 100 − 67 = **33** |
-| 10 | **4** | 3⁶⁵ → 3 (65 mod 4 = 1); 6⁵⁹ → 6; 7⁷¹ → 3 (71 mod 4 = 3). 3 × 6 × 3 = 54, so **4** |
-| 11 | **3** | n = 6k + 3, so n² = 36k² + 36k + 9 ≡ 9 ≡ **3** (mod 6) |
-| 12 | **1120** | Differences: 3360, 2240, 5600. HCF = 1120. (Each number leaves remainder 185) |
-| 13 | **32** | Total = (4+1)(3+1)(1+1) = 40. Odd factors (ignoring 2) = 4 × 2 = 8. Even = **32** |
-| 14 | **1** | 17 ≡ 1 (mod 16), so 1²³ = **1** |
-| 15 | **2500** | n² = 50² |
-| 16 | **20/3** | LCM(2, 4, 5) / HCF(3, 9, 6) = 20/3 |
-| 17 | **31** | 25 + 5 + 1 |
-| 18 | **10** | Units: 3 + 4 = 7, no carry. Hundreds: 4 + 9 = 13 with **no carry from the tens**, so a + 8 = b (< 10). 13b7 divisible by 11: (7 + 3) − (b + 1) = 9 − b = 0, so **b = 9** and **a = 1**. a + b = **10** |
+**1.** **3**
+- _Working_: Cycle of 7: 7, 9, 3, 1. 95 mod 4 = 3, so the 3rd term = **3**
+
+**2.** **24**
+- _Working_: 360 = 2³ × 3² × 5 → (3+1)(2+1)(1+1) = 24
+
+**3.** **24**
+- _Working_: ⌊100/5⌋ + ⌊100/25⌋ = 20 + 4
+
+**4.** **60**
+- _Working_: (12 × 360)/72 = 60. Check: HCF(72, 60) = 12 ✓, LCM = 360 ✓
+
+**5.** **65**
+- _Working_: LCM(12, 15, 20) = 60, plus 5
+
+**6.** **3**
+- _Working_: 2⁴ ≡ 1 (mod 5). 31 = 4×7 + 3, so 2³ = 8 ≡ **3**
+
+**7.** **Yes, 83,462**
+- _Working_: Alternating sum = −22, a multiple of 11. 918,082 ÷ 11 = 83,462
+
+**8.** **728**
+- _Working_: Terms 14, 21, …, 98: n = 13. Sum = 13 × (14 + 98)/2 = 13 × 56
+
+**9.** **33**
+- _Working_: Divisible by 2: 50, by 3: 33, by 6: 16. Union = 67, so 100 − 67 = **33**
+
+**10.** **4**
+- _Working_: 3⁶⁵ → 3 (65 mod 4 = 1); 6⁵⁹ → 6; 7⁷¹ → 3 (71 mod 4 = 3). 3 × 6 × 3 = 54, so **4**
+
+**11.** **3**
+- _Working_: n = 6k + 3, so n² = 36k² + 36k + 9 ≡ 9 ≡ **3** (mod 6)
+
+**12.** **1120**
+- _Working_: Differences: 3360, 2240, 5600. HCF = 1120. (Each number leaves remainder 185)
+
+**13.** **32**
+- _Working_: Total = (4+1)(3+1)(1+1) = 40. Odd factors (ignoring 2) = 4 × 2 = 8. Even = **32**
+
+**14.** **1**
+- _Working_: 17 ≡ 1 (mod 16), so 1²³ = **1**
+
+**15.** **2500**
+- _Working_: n² = 50²
+
+**16.** **20/3**
+- _Working_: LCM(2, 4, 5) / HCF(3, 9, 6) = 20/3
+
+**17.** **31**
+- _Working_: 25 + 5 + 1
+
+**18.** **10**
+- _Working_: Units: 3 + 4 = 7, no carry. Hundreds: 4 + 9 = 13 with **no carry from the tens**, so a + 8 = b (< 10). 13b7 divisible by 11: (7 + 3) − (b + 1) = 9 − b = 0, so **b = 9** and **a = 1**. a + b = **10**
 
 **RC Answers**
-| Q | Ans | Why (and why the others are wrong) |
-|---|---|---|
-| P1.Q1 | **(b)** | The passage says the danger lies "less in the text than in the conduct". (a) The passage doesn't say the text is defective. (c) It is the opposite: the passage values the "freedom to criticise". (d) It is the opposite: morality "has to be cultivated" |
-| P1.Q2 | **(a)** | Statement 1 is implied ("perverted without changing a single word"). Statement 2 contradicts "a soil that is essentially undemocratic" |
-| P1.Q3 | **(b)** | A thin layer on top of an undemocratic soil, i.e., superficial |
-| P2.Q1 | **(b)** | The thesis is in "efficiency alone does not explain…" and the last line. (a) is a detail the passage challenges. (c) is a distortion: railways carried cloth, and agriculture is not the subject. (d) is not stated: there were "few" factories |
-| P2.Q2 | **(c)** | 1 follows from the role of the tariffs. 3 follows from "the land, which was already crowded". 2 contradicts the first line |
-| P2.Q3 | **(c)** | "Efficiency **alone** does not explain…": the author accepts it partly but finds it insufficient |
+
+**P1.Q1.** **(b)**
+- _Why (and why the others are wrong)_: The passage says the danger lies "less in the text than in the conduct". (a) The passage doesn't say the text is defective. (c) It is the opposite: the passage values the "freedom to criticise". (d) It is the opposite: morality "has to be cultivated"
+
+**P1.Q2.** **(a)**
+- _Why (and why the others are wrong)_: Statement 1 is implied ("perverted without changing a single word"). Statement 2 contradicts "a soil that is essentially undemocratic"
+
+**P1.Q3.** **(b)**
+- _Why (and why the others are wrong)_: A thin layer on top of an undemocratic soil, i.e., superficial
+
+**P2.Q1.** **(b)**
+- _Why (and why the others are wrong)_: The thesis is in "efficiency alone does not explain…" and the last line. (a) is a detail the passage challenges. (c) is a distortion: railways carried cloth, and agriculture is not the subject. (d) is not stated: there were "few" factories
+
+**P2.Q2.** **(c)**
+- _Why (and why the others are wrong)_: 1 follows from the role of the tariffs. 3 follows from "the land, which was already crowded". 2 contradicts the first line
+
+**P2.Q3.** **(c)**
+- _Why (and why the others are wrong)_: "Efficiency **alone** does not explain…": the author accepts it partly but finds it insufficient
 
 ---
 
@@ -270,34 +404,54 @@ Select: (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
 # PART 4 – WEEK 1 REVISION & ANSWER-WRITING PLAN
 
 ## 4.1 Daily routine with these notes
-| Time | Activity | File |
-|---|---|---|
-| 06:00–06:30 | Read yesterday's **⏱ Snapshot + ⚠️ Traps** | Notes |
-| 08:45 (first 15 min) | Attempt today's **Question Bank** block cold | Q&A file |
-| 08:45–11:45 | Laxmikanth, then cross-check with the notes | Polity notes |
-| 12:00–13:00 | PYQs on today's topic | PYQ book |
-| 14:30–16:00 | Spectrum, then cross-check | History notes |
-| 16:15–17:15 | CSAT (Mon/Wed/Fri: Quant; Tue/Thu/Sat: RC) | This file |
-| 18:30–19:30 | **Write 2 analytical answers** (7 min each) + 15 min of maps | Notes ❓ sections |
-| 21:00–21:30 | Mistake register | — |
+
+**06:00–06:30**
+- _Activity_: Read yesterday's **⏱ Snapshot + ⚠️ Traps**
+- _File_: Notes
+
+**08:45 (first 15 min)**
+- _Activity_: Attempt today's **Question Bank** block cold
+- _File_: Q&A file
+
+**08:45–11:45**
+- _Activity_: Laxmikanth, then cross-check with the notes
+- _File_: Polity notes
+
+**12:00–13:00**
+- _Activity_: PYQs on today's topic
+- _File_: PYQ book
+
+**14:30–16:00**
+- _Activity_: Spectrum, then cross-check
+- _File_: History notes
+
+**16:15–17:15**
+- _Activity_: CSAT (Mon/Wed/Fri: Quant; Tue/Thu/Sat: RC)
+- _File_: This file
+
+**18:30–19:30**
+- _Activity_: **Write 2 analytical answers** (7 min each) + 15 min of maps
+- _File_: Notes ❓ sections
+
+**21:00–21:30**
+- _Activity_: Mistake register
+- _File_: —
 
 ## 4.2 Sunday (8 Nov) plan
-| Slot | Task |
-|---|---|
-| 09:00–09:20 | **Part C** of the Question Bank (10 Qs, timed) |
-| 09:20–11:00 | PYQs on **FR/DPSP/Preamble** (2013 onwards) and **Land Revenue/Reform Movements** |
-| 11:00–13:00 | Analysis: fill in **Part E** of the Question Bank; mark your **wrong-but-Sure** answers |
-| 14:30–16:00 | **Rapid Revision (60 facts)** aloud, plus both **Cheat-sheets** |
-| 16:00–17:30 | Compare your written analytical answers with the **Answer Frameworks**. Note the missing points |
-| Evening | Off ✔️ |
+
+- **09:00–09:20**: **Part C** of the Question Bank (10 Qs, timed)
+- **09:20–11:00**: PYQs on **FR/DPSP/Preamble** (2013 onwards) and **Land Revenue/Reform Movements**
+- **11:00–13:00**: Analysis: fill in **Part E** of the Question Bank; mark your **wrong-but-Sure** answers
+- **14:30–16:00**: **Rapid Revision (60 facts)** aloud, plus both **Cheat-sheets**
+- **16:00–17:30**: Compare your written analytical answers with the **Answer Frameworks**. Note the missing points
+- **Evening**: Off ✔️
 
 ## 4.3 Spaced repetition for Week 1 content
-| When | What (about 45 min) |
-|---|---|
-| **Day 7** (Sun 8 Nov) | Full revision as above |
-| **Day 21** (Sun 22 Nov) | Snapshots + Traps + 60 facts; re-attempt the Q&A answers you got wrong |
-| **Day 45** (Wed 16 Dec) | Cheat-sheets only, plus 20 random MCQs from the Week 1 bank |
-| **Phase 2** (late Jan 2027) | Revision 1 with your short notes |
+
+- **Day 7 (Sun 8 Nov)**: Full revision as above
+- **Day 21 (Sun 22 Nov)**: Snapshots + Traps + 60 facts; re-attempt the Q&A answers you got wrong
+- **Day 45 (Wed 16 Dec)**: Cheat-sheets only, plus 20 random MCQs from the Week 1 bank
+- **Phase 2 (late Jan 2027)**: Revision 1 with your short notes
 
 ## 4.4 How to write the analytical answers (the 3-part frame)
 1. **Intro (2 lines):** define the term, or give a fact, Article or case that frames the issue.
@@ -305,13 +459,12 @@ Select: (a) 1 and 2 only (b) 2 and 3 only (c) 1 and 3 only (d) 1, 2 and 3
 3. **Conclusion (2 lines):** a balanced view, a way forward, or a link to a constitutional value or current reform.
 
 **Self-check rubric (score each answer /10)**
-| Criterion | Marks |
-|---|---|
-| Answered the directive word (examine / evaluate / compare) | 2 |
-| At least 3 distinct dimensions covered | 3 |
-| Specific evidence (Article, case, Act, date, data) | 3 |
-| Balanced conclusion | 1 |
-| Structure (headings, flow) | 1 |
+
+- **Answered the directive word (examine / evaluate / compare)**: 2
+- **At least 3 distinct dimensions covered**: 3
+- **Specific evidence (Article, case, Act, date, data)**: 3
+- **Balanced conclusion**: 1
+- **Structure (headings, flow)**: 1
 
 > 💡 These answers are mainly practice for **Mains**. For **Prelims**, their value is that they force you to *understand* and *link* topics, and recent UPSC papers reward exactly that through statement-based questions.
 

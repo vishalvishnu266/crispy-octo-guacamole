@@ -17,18 +17,35 @@ Framework: `D:\last\plan\FRAMEWORK_Question_Bank.md`
 
 ## PART A – Pre-Study Diagnostic (10 Qs, about 10 min, attempt NOW)
 
-| # | Question | Your answer | S/F/G |
-|---|---|---|---|
-| A1 | Which Act is often called the "blueprint" of the Indian Constitution? | | |
-| A2 | Who moved the Objectives Resolution in the Constituent Assembly? | | |
-| A3 | Which three words were added to the Preamble by the 42nd Amendment? | | |
-| A4 | Under which Article can Parliament form a new State? Does it need a special majority? | | |
-| A5 | Name any two Fundamental Rights available **only to citizens**. | | |
-| A6 | Which two Articles cannot be suspended even during a National Emergency? | | |
-| A7 | In which case was the "Basic Structure" doctrine laid down? | | |
-| A8 | Who introduced the Permanent Settlement, and in which year? | | |
-| A9 | Which battle is considered more decisive: Plassey (1757) or Buxar (1764)? Why, in one line? | | |
-| A10 | Who founded the Satyashodhak Samaj? | | |
+**A1.** Which Act is often called the "blueprint" of the Indian Constitution?
+- Your answer: ____ · S/F/G: ____
+
+**A2.** Who moved the Objectives Resolution in the Constituent Assembly?
+- Your answer: ____ · S/F/G: ____
+
+**A3.** Which three words were added to the Preamble by the 42nd Amendment?
+- Your answer: ____ · S/F/G: ____
+
+**A4.** Under which Article can Parliament form a new State? Does it need a special majority?
+- Your answer: ____ · S/F/G: ____
+
+**A5.** Name any two Fundamental Rights available **only to citizens**.
+- Your answer: ____ · S/F/G: ____
+
+**A6.** Which two Articles cannot be suspended even during a National Emergency?
+- Your answer: ____ · S/F/G: ____
+
+**A7.** In which case was the "Basic Structure" doctrine laid down?
+- Your answer: ____ · S/F/G: ____
+
+**A8.** Who introduced the Permanent Settlement, and in which year?
+- Your answer: ____ · S/F/G: ____
+
+**A9.** Which battle is considered more decisive: Plassey (1757) or Buxar (1764)? Why, in one line?
+- Your answer: ____ · S/F/G: ____
+
+**A10.** Who founded the Satyashodhak Samaj?
+- Your answer: ____ · S/F/G: ____
 
 ---
 
@@ -58,12 +75,10 @@ Framework: `D:\last\plan\FRAMEWORK_Question_Bank.md`
   (a) Only one (b) Only two (c) Only three (d) All four
 
 - **P1.7** Consider the following pairs:
-  | Act | Provision |
-  |---|---|
-  | 1. Charter Act, 1813 | Ended the East India Company's trade monopoly except in tea and trade with China |
-  | 2. Charter Act, 1833 | Successfully introduced open competition for civil services |
-  | 3. Government of India Act, 1919 | Introduced bicameralism at the Centre |
-  | 4. Government of India Act, 1935 | Introduced dyarchy in the provinces |
+  - **1. Charter Act, 1813**: Ended the East India Company's trade monopoly except in tea and trade with China
+  - **2. Charter Act, 1833**: Successfully introduced open competition for civil services
+  - **3. Government of India Act, 1919**: Introduced bicameralism at the Centre
+  - **4. Government of India Act, 1935**: Introduced dyarchy in the provinces
 
   How many pairs are correctly matched?
   (a) Only one (b) Only two (c) Only three (d) All four
@@ -312,12 +327,10 @@ Framework: `D:\last\plan\FRAMEWORK_Question_Bank.md`
 
 **L3 – UPSC-Style**
 - **H1.6** Consider the following pairs:
-  | Treaty | War |
-  |---|---|
-  | 1. Treaty of Salbai | First Anglo-Maratha War |
-  | 2. Treaty of Mangalore | Second Anglo-Mysore War |
-  | 3. Treaty of Seringapatam | Fourth Anglo-Mysore War |
-  | 4. Treaty of Bassein | Peshwa accepts Subsidiary Alliance |
+  - **1. Treaty of Salbai**: First Anglo-Maratha War
+  - **2. Treaty of Mangalore**: Second Anglo-Mysore War
+  - **3. Treaty of Seringapatam**: Fourth Anglo-Mysore War
+  - **4. Treaty of Bassein**: Peshwa accepts Subsidiary Alliance
 
   How many pairs are correctly matched? (a) Only one (b) Only two (c) Only three (d) All four
 
@@ -398,11 +411,9 @@ Framework: `D:\last\plan\FRAMEWORK_Question_Bank.md`
   How many are correct? (a) Only one (b) Only two (c) All three (d) None
 
 - **H3.7** Consider the following pairs:
-  | Act | Associated reformer / issue |
-  |---|---|
-  | 1. Hindu Widows' Remarriage Act, 1856 | Ishwar Chandra Vidyasagar |
-  | 2. Age of Consent Act, 1891 | Behramji Malabari |
-  | 3. Sati abolition, 1829 | Lord Dalhousie |
+  - **1. Hindu Widows' Remarriage Act, 1856**: Ishwar Chandra Vidyasagar
+  - **2. Age of Consent Act, 1891**: Behramji Malabari
+  - **3. Sati abolition, 1829**: Lord Dalhousie
 
   How many pairs are correctly matched? (a) Only one (b) Only two (c) All three (d) None
 
@@ -484,18 +495,17 @@ How many are correct? (a) Only one (b) Only two (c) All three (d) None
 # PART D – ANSWER KEY
 
 ## Part A – Diagnostic Answers
-| # | Answer |
-|---|---|
-| A1 | Government of India Act, 1935 |
-| A2 | Jawaharlal Nehru (13 Dec 1946; adopted 22 Jan 1947) |
-| A3 | Socialist, Secular, Integrity |
-| A4 | Article 3. **Simple majority** is enough (it isn't an amendment under Art 368, as stated in Art 4) |
-| A5 | Any two of: Art 15, 16, 19, 29, 30 |
-| A6 | Article 20 and Article 21 (after the 44th Amendment, 1978) |
-| A7 | Kesavananda Bharati v. State of Kerala (1973) |
-| A8 | Lord Cornwallis, 1793 |
-| A9 | Buxar. It defeated the combined forces of the Mughal emperor, the Nawab of Awadh and the Nawab of Bengal, and led to the Diwani (Treaty of Allahabad 1765). Plassey was largely won through conspiracy (Mir Jafar's betrayal) |
-| A10 | Jyotiba Phule (1873) |
+
+- **A1**: Government of India Act, 1935
+- **A2**: Jawaharlal Nehru (13 Dec 1946; adopted 22 Jan 1947)
+- **A3**: Socialist, Secular, Integrity
+- **A4**: Article 3. **Simple majority** is enough (it isn't an amendment under Art 368, as stated in Art 4)
+- **A5**: Any two of: Art 15, 16, 19, 29, 30
+- **A6**: Article 20 and Article 21 (after the 44th Amendment, 1978)
+- **A7**: Kesavananda Bharati v. State of Kerala (1973)
+- **A8**: Lord Cornwallis, 1793
+- **A9**: Buxar. It defeated the combined forces of the Mughal emperor, the Nawab of Awadh and the Nawab of Bengal, and led to the Diwani (Treaty of Allahabad 1765). Plassey was largely won through conspiracy (Mir Jafar's betrayal)
+- **A10**: Jyotiba Phule (1873)
 
 **Diagnostic score: ___ /10**
 
@@ -670,12 +680,22 @@ Rights read into Art 21 include privacy (2017), livelihood, a clean environment,
 **P5.3** **Dr. B.R. Ambedkar.**
 
 **P5.4**
-| Feature | Art 32 | Art 226 |
-|---|---|---|
-| Scope | Only for enforcing **FRs** | FRs **and** "any other purpose" (legal rights), so it's **wider** |
-| Status | Itself a **Fundamental Right** | A constitutional (not fundamental) right |
-| Suspension | Can be suspended during an emergency (Art 359), except for Arts 20 and 21 | Not suspended as such |
-| Territory | Throughout India | Within the HC's territorial jurisdiction (or where the cause of action arises) |
+
+**Scope**
+- _Art 32_: Only for enforcing **FRs**
+- _Art 226_: FRs **and** "any other purpose" (legal rights), so it's **wider**
+
+**Status**
+- _Art 32_: Itself a **Fundamental Right**
+- _Art 226_: A constitutional (not fundamental) right
+
+**Suspension**
+- _Art 32_: Can be suspended during an emergency (Art 359), except for Arts 20 and 21
+- _Art 226_: Not suspended as such
+
+**Territory**
+- _Art 32_: Throughout India
+- _Art 226_: Within the HC's territorial jurisdiction (or where the cause of action arises)
 
 🧠 Judicial review under Arts 32 and 226 is part of the **basic structure** (*L. Chandra Kumar*, 1997).
 
@@ -725,15 +745,31 @@ Rights read into Art 21 include privacy (2017), livelihood, a clean environment,
 - **Special majority** (a majority of total membership **and** 2/3 of members present and voting, in each House): e.g. FRs and DPSPs.
 - **Special majority plus ratification by half the States** (by simple majority): federal provisions such as the election of the President, the extent of Union and State executive power, the SC and HCs, the distribution of legislative powers (7th Schedule), GST Council matters, the representation of States in Parliament, and Art 368 itself.
 
-**P6.6**
-| Art | Content | Category |
-|---|---|---|
-| 39A | Equal justice and free legal aid | **S** (Socialist) |
-| 40 | Village panchayats | **G** (Gandhian) |
-| 44 | Uniform Civil Code | **L** (Liberal-Intellectual) |
-| 47 | Nutrition, public health, prohibition of intoxicants | **S**/**G**: improving nutrition and public health is socialist, while prohibition of intoxicating drinks is Gandhian. Laxmikanth places "prohibition" under Gandhian |
-| 48 | Organising agriculture and animal husbandry on modern lines; banning cow slaughter | Modern agriculture is **L**, while banning cow slaughter is **G** |
-| 50 | Separating the judiciary from the executive | **L** |
+**Art P6.6**
+
+**Art 39A**
+- _Content_: Equal justice and free legal aid
+- _Category_: **S** (Socialist)
+
+**Art 40**
+- _Content_: Village panchayats
+- _Category_: **G** (Gandhian)
+
+**Art 44**
+- _Content_: Uniform Civil Code
+- _Category_: **L** (Liberal-Intellectual)
+
+**Art 47**
+- _Content_: Nutrition, public health, prohibition of intoxicants
+- _Category_: **S**/**G**: improving nutrition and public health is socialist, while prohibition of intoxicating drinks is Gandhian. Laxmikanth places "prohibition" under Gandhian
+
+**Art 48**
+- _Content_: Organising agriculture and animal husbandry on modern lines; banning cow slaughter
+- _Category_: Modern agriculture is **L**, while banning cow slaughter is **G**
+
+**Art 50**
+- _Content_: Separating the judiciary from the executive
+- _Category_: **L**
 
 ⚠️ Arts 47 and 48 have **two parts that fall in different categories**. This is a good example of why you should read the exact text of each DPSP.
 
@@ -807,13 +843,31 @@ Rights read into Art 21 include privacy (2017), livelihood, a clean environment,
 **H2.3** **Lord Cornwallis** (the Cornwallis Code, 1793, which separated revenue and judicial administration). **Warren Hastings** (1772) set up the post of district Collector and the Diwani (civil) and Faujdari (criminal) Adalats.
 
 **H2.4**
-| Feature | Permanent (Zamindari) | Ryotwari | Mahalwari |
-|---|---|---|---|
-| Unit / settled with | Zamindar | Individual ryot (cultivator) | Village community (mahal) |
-| Ownership | Zamindar | Ryot (but the state was the "supreme landlord") | Village body jointly |
-| Revenue | **Fixed permanently** | Periodically revised (20–30 yrs) | Periodically revised |
-| Coverage | about 19% | about 51% | about 30% |
-| Impact | Absentee landlordism, rack-renting, tenant insecurity | Very high rates, debt, dependence on moneylenders | Power went to village headmen; high rates |
+
+**Unit / settled with**
+- _Permanent (Zamindari)_: Zamindar
+- _Ryotwari_: Individual ryot (cultivator)
+- _Mahalwari_: Village community (mahal)
+
+**Ownership**
+- _Permanent (Zamindari)_: Zamindar
+- _Ryotwari_: Ryot (but the state was the "supreme landlord")
+- _Mahalwari_: Village body jointly
+
+**Revenue**
+- _Permanent (Zamindari)_: **Fixed permanently**
+- _Ryotwari_: Periodically revised (20–30 yrs)
+- _Mahalwari_: Periodically revised
+
+**Coverage**
+- _Permanent (Zamindari)_: about 19%
+- _Ryotwari_: about 51%
+- _Mahalwari_: about 30%
+
+**Impact**
+- _Permanent (Zamindari)_: Absentee landlordism, rack-renting, tenant insecurity
+- _Ryotwari_: Very high rates, debt, dependence on moneylenders
+- _Mahalwari_: Power went to village headmen; high rates
 
 **H2.5** The Drain of Wealth was the transfer of India's wealth to Britain **without any equivalent economic return**. Its channels: **Home Charges** (salaries and pensions of British officials, India Office expenses), **interest on public debt**, **profits of British companies and investors**, **military expenditure** (including wars fought outside India), and **excess exports over imports** (an unrequited surplus).
 🧠 Naoroji estimated the drain at about £12 million a year. The theory became the economic foundation of Indian nationalism.
@@ -841,16 +895,38 @@ Rights read into Art 21 include privacy (2017), livelihood, a clean environment,
 ## History Block 3 – Socio-Religious Reforms
 
 **H3.1**
-| Founder | Organisation | Year |
-|---|---|---|
-| Raja Rammohan Roy | Brahmo Sabha (later Brahmo Samaj) | 1828 |
-| Dayanand Saraswati | Arya Samaj | 1875 |
-| Jyotiba Phule | Satyashodhak Samaj | 1873 |
-| Atmaram Pandurang | Prarthana Samaj | 1867 |
-| Swami Vivekananda | Ramakrishna Mission | 1897 |
-| Sree Narayana Guru | SNDP Yogam | 1903 |
-| Sir Syed Ahmad Khan | MAO College, Aligarh | 1875 |
-| Blavatsky and Olcott | Theosophical Society | 1875 (New York) |
+
+**Raja Rammohan Roy**
+- _Organisation_: Brahmo Sabha (later Brahmo Samaj)
+- _Year_: 1828
+
+**Dayanand Saraswati**
+- _Organisation_: Arya Samaj
+- _Year_: 1875
+
+**Jyotiba Phule**
+- _Organisation_: Satyashodhak Samaj
+- _Year_: 1873
+
+**Atmaram Pandurang**
+- _Organisation_: Prarthana Samaj
+- _Year_: 1867
+
+**Swami Vivekananda**
+- _Organisation_: Ramakrishna Mission
+- _Year_: 1897
+
+**Sree Narayana Guru**
+- _Organisation_: SNDP Yogam
+- _Year_: 1903
+
+**Sir Syed Ahmad Khan**
+- _Organisation_: MAO College, Aligarh
+- _Year_: 1875
+
+**Blavatsky and Olcott**
+- _Organisation_: Theosophical Society
+- _Year_: 1875 (New York)
 
 **H3.2** Brahmo Sabha (1828) → Prarthana Samaj (1867) → Arya Samaj (1875) → Ramakrishna Mission (1897)
 
@@ -880,57 +956,120 @@ Rights read into Art 21 include privacy (2017), livelihood, a clean environment,
 
 ## Part C – Sunday Test Answers
 
-| Q | Ans | Explanation |
-|---|---|---|
-| C1 | **(d)** | All four come from the GoI Act 1935. It extended separate electorates to depressed classes, women and labour, provided provincial autonomy and the RBI (1935), and created bicameralism in 6 of 11 provinces |
-| C2 | **(d)** | Impeachment of the President comes from the **USA**. The others are British |
-| C3 | **(d)** | The 86th Amendment inserted 21A, changed Art 45 (early childhood care up to age 6) and added 51A(k) |
-| C4 | **(b)** | *Indira Nehru Gandhi v. Raj Narain* (1975) |
-| C5 | **(a)** | Arts 14, 21 and 25 are available to all persons. Art 19 (freedom of speech) is for citizens only |
-| C6 | **(b)** | Statement 3 is wrong: Ryotwari revenue was revised periodically |
-| C7 | **(a)** | Plassey (1757) → Wandiwash (1760) → Buxar (1764) → Allahabad (1765) |
-| C8 | **(b)** | Deoband, 1866. Sir Syed founded the Aligarh Movement, Mirza Ghulam Ahmad the Ahmadiyya movement, and Syed Ahmad Barelvi the Wahabi movement |
-| C9 | **(c)** | All three are correct |
-| C10 | **(d)** | Awadh was annexed for misgovernance (1856) |
+**C1.** **(d)**
+- _Explanation_: All four come from the GoI Act 1935. It extended separate electorates to depressed classes, women and labour, provided provincial autonomy and the RBI (1935), and created bicameralism in 6 of 11 provinces
+
+**C2.** **(d)**
+- _Explanation_: Impeachment of the President comes from the **USA**. The others are British
+
+**C3.** **(d)**
+- _Explanation_: The 86th Amendment inserted 21A, changed Art 45 (early childhood care up to age 6) and added 51A(k)
+
+**C4.** **(b)**
+- _Explanation_: *Indira Nehru Gandhi v. Raj Narain* (1975)
+
+**C5.** **(a)**
+- _Explanation_: Arts 14, 21 and 25 are available to all persons. Art 19 (freedom of speech) is for citizens only
+
+**C6.** **(b)**
+- _Explanation_: Statement 3 is wrong: Ryotwari revenue was revised periodically
+
+**C7.** **(a)**
+- _Explanation_: Plassey (1757) → Wandiwash (1760) → Buxar (1764) → Allahabad (1765)
+
+**C8.** **(b)**
+- _Explanation_: Deoband, 1866. Sir Syed founded the Aligarh Movement, Mirza Ghulam Ahmad the Ahmadiyya movement, and Syed Ahmad Barelvi the Wahabi movement
+
+**C9.** **(c)**
+- _Explanation_: All three are correct
+
+**C10.** **(d)**
+- _Explanation_: Awadh was annexed for misgovernance (1856)
 
 ---
 
 # PART E – Self-Assessment Scorecard
 
 ### Score by section
-| Section | Total Qs | Correct | % |
-|---|---|---|---|
-| Part A – Diagnostic | 10 | | |
-| Day 1 – Hist. background & making | 11 | | |
-| Day 2 – Features & Preamble | 10 | | |
-| Day 3 – Union, Territory, Citizenship | 11 | | |
-| Day 4 – FR 12–24 | 11 | | |
-| Day 5 – FR 25–35, Writs | 11 | | |
-| Day 6 – DPSP, FD, Amendment, BS | 12 | | |
-| History Block 1 | 9 | | |
-| History Block 2 | 9 | | |
-| History Block 3 | 9 | | |
-| Part C – Sunday Test | 10 | | |
-| **TOTAL** | **113** | | |
+
+**Part A – Diagnostic**
+- _Total Qs_: 10
+- Correct: ____ · %: ____
+
+**Day 1 – Hist. background & making**
+- _Total Qs_: 11
+- Correct: ____ · %: ____
+
+**Day 2 – Features & Preamble**
+- _Total Qs_: 10
+- Correct: ____ · %: ____
+
+**Day 3 – Union, Territory, Citizenship**
+- _Total Qs_: 11
+- Correct: ____ · %: ____
+
+**Day 4 – FR 12–24**
+- _Total Qs_: 11
+- Correct: ____ · %: ____
+
+**Day 5 – FR 25–35, Writs**
+- _Total Qs_: 11
+- Correct: ____ · %: ____
+
+**Day 6 – DPSP, FD, Amendment, BS**
+- _Total Qs_: 12
+- Correct: ____ · %: ____
+
+**History Block 1**
+- _Total Qs_: 9
+- Correct: ____ · %: ____
+
+**History Block 2**
+- _Total Qs_: 9
+- Correct: ____ · %: ____
+
+**History Block 3**
+- _Total Qs_: 9
+- Correct: ____ · %: ____
+
+**Part C – Sunday Test**
+- _Total Qs_: 10
+- Correct: ____ · %: ____
+
+**TOTAL**
+- _Total Qs_: **113**
+- Correct: ____ · %: ____
 
 *(Count a True/False item with 3 parts as 1 question, and only mark it correct if all its parts are right. For L2/L4 answers, mark them correct if you got at least 60% of the key points.)*
 
 ### Score by level
-| Level | Correct / Attempted | % | If below 60%, what to do |
-|---|---|---|---|
-| L1 Recall | | | Revise more; make tables of Acts, Articles and dates |
-| L2 Concept | | | Explain each topic aloud in your own words |
-| L3 UPSC-style | | | More PYQs; read every statement word by word |
-| L4 Analytical | | | Link CA to static topics; write 3-point answers |
-| L5 Trap | | | Underline extreme words; maintain a "trap list" |
+
+**L1 Recall**
+- _If below 60%, what to do_: Revise more; make tables of Acts, Articles and dates
+- Correct / Attempted: ____ · %: ____
+
+**L2 Concept**
+- _If below 60%, what to do_: Explain each topic aloud in your own words
+- Correct / Attempted: ____ · %: ____
+
+**L3 UPSC-style**
+- _If below 60%, what to do_: More PYQs; read every statement word by word
+- Correct / Attempted: ____ · %: ____
+
+**L4 Analytical**
+- _If below 60%, what to do_: Link CA to static topics; write 3-point answers
+- Correct / Attempted: ____ · %: ____
+
+**L5 Trap**
+- _If below 60%, what to do_: Underline extreme words; maintain a "trap list"
+- Correct / Attempted: ____ · %: ____
 
 ### Confidence calibration
-| | Count |
-|---|---|
-| Sure and right | |
-| **Sure but WRONG** ← the most important number | |
-| 50-50 and right | |
-| Guess and right | |
+
+- **Sure and right**: ____
+- **Sure but WRONG ← the most important number**: ____
+- **50-50 and right**: ____
+- **Guess and right**: ____
 
 **If "Sure but wrong" is above 10% of your Sure answers, you are over-confident. In the real exam, attempt fewer questions until this improves.**
 

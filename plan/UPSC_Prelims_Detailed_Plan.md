@@ -11,68 +11,163 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 
 ## 0. The Strategy in One Page
 
-| Principle | What it means in practice |
-|---|---|
-| PYQ-first | Before you start a topic, read the last 12 years of PYQs on it. After finishing it, solve them. |
-| Limited sources | One book per subject. Revise it 3–4 times rather than reading 3 books once. |
-| Current affairs daily | 1.5 hrs every day. Link each news item to a static topic. |
-| CSAT daily | 1 hr every day from Day 1, without exception. You need 66/200 to qualify. |
-| Test from Week 3 | Take a weekly sectional test now, then full mocks in the final 8 weeks. |
-| Short notes | Keep one notebook (or digital file) per subject, at most 20–40 pages each. You will revise from these. |
-| Mistake register | Note every wrong answer with the reason (didn't know / misread / over-guessed). |
+- **PYQ-first**: Before you start a topic, read the last 12 years of PYQs on it. After finishing it, solve them.
+- **Limited sources**: One book per subject. Revise it 3–4 times rather than reading 3 books once.
+- **Current affairs daily**: 1.5 hrs every day. Link each news item to a static topic.
+- **CSAT daily**: 1 hr every day from Day 1, without exception. You need 66/200 to qualify.
+- **Test from Week 3**: Take a weekly sectional test now, then full mocks in the final 8 weeks.
+- **Short notes**: Keep one notebook (or digital file) per subject, at most 20–40 pages each. You will revise from these.
+- **Mistake register**: Note every wrong answer with the reason (didn't know / misread / over-guessed).
 
 ### Target weightage (based on recent paper trends)
-| Subject | Approx. Qs | Priority |
-|---|---|---|
-| Environment & Ecology | 15–20 | ★★★★★ |
-| Polity & Governance | 12–18 | ★★★★★ |
-| Economy | 12–18 | ★★★★★ |
-| History (Modern + Art & Culture + Ancient/Medieval) | 12–18 | ★★★★ |
-| Geography (India + World + Maps) | 10–15 | ★★★★ |
-| Science & Technology | 8–12 | ★★★ |
-| International Relations / Orgs | 6–10 | ★★★ |
-| Schemes, Reports, Indices | 5–8 | ★★★ |
+
+**Environment & Ecology**
+- _Approx. Qs_: 15–20
+- _Priority_: ★★★★★
+
+**Polity & Governance**
+- _Approx. Qs_: 12–18
+- _Priority_: ★★★★★
+
+**Economy**
+- _Approx. Qs_: 12–18
+- _Priority_: ★★★★★
+
+**History (Modern + Art & Culture + Ancient/Medieval)**
+- _Approx. Qs_: 12–18
+- _Priority_: ★★★★
+
+**Geography (India + World + Maps)**
+- _Approx. Qs_: 10–15
+- _Priority_: ★★★★
+
+**Science & Technology**
+- _Approx. Qs_: 8–12
+- _Priority_: ★★★
+
+**International Relations / Orgs**
+- _Approx. Qs_: 6–10
+- _Priority_: ★★★
+
+**Schemes, Reports, Indices**
+- _Approx. Qs_: 5–8
+- _Priority_: ★★★
 
 ---
 
 ## 1. Booklist (stick to these)
 
-| Subject | Primary source | Supplement |
-|---|---|---|
-| Polity | M. Laxmikanth – *Indian Polity* | Bare Constitution (only for articles in the news) |
-| Economy | NCERT Class 11 *Indian Economic Development* + Class 12 Macro, then Ramesh Singh **or** Sankarganesh notes | Economic Survey 2026-27 (summary), Union Budget 2027 highlights |
-| Environment | Shankar IAS – *Environment* | PIB / Down To Earth for species and conventions in the news |
-| Modern History | Spectrum – *A Brief History of Modern India* | NCERT Class 12 *Themes in Indian History* Pt III (selective) |
-| Art & Culture | Nitin Singhania (selective) **or** NCERT Class 11 *An Introduction to Indian Art* | CCRT website, GI tags and UNESCO sites list |
-| Ancient & Medieval | Old NCERT RS Sharma (Ancient), Satish Chandra (Medieval) **or** Tamil Nadu Class 11 | — |
-| Geography | NCERT Class 11 (*Fundamentals of Physical Geography*, *India Physical Environment*), Class 12 (*India People & Economy*) | Oxford / Orient BlackSwan atlas, **used daily** |
-| Science & Tech | Current affairs only, plus NCERT Class 9–10 Science (basics) | ISRO / PIB pages |
-| Current Affairs | One daily newspaper (The Hindu / Indian Express) **or** a daily CA website, **plus** one monthly magazine (Vision IAS / Insights / ForumIAS) | Vision IAS PT-365 (Mar–Apr 2027) |
-| CSAT | RS Aggarwal *Quantitative Aptitude* (selective), *A Modern Approach to Verbal & Non-Verbal Reasoning* | 12 years of CSAT PYQs |
-| PYQs | Disha / Arihant topic-wise GS PYQ book (2013–2026) | — |
-| Test series | One full-length series (Vision / Forum / Insights / Vajiram) | — |
+**Polity**
+- _Primary source_: M. Laxmikanth – *Indian Polity*
+- _Supplement_: Bare Constitution (only for articles in the news)
+
+**Economy**
+- _Primary source_: NCERT Class 11 *Indian Economic Development* + Class 12 Macro, then Ramesh Singh **or** Sankarganesh notes
+- _Supplement_: Economic Survey 2026-27 (summary), Union Budget 2027 highlights
+
+**Environment**
+- _Primary source_: Shankar IAS – *Environment*
+- _Supplement_: PIB / Down To Earth for species and conventions in the news
+
+**Modern History**
+- _Primary source_: Spectrum – *A Brief History of Modern India*
+- _Supplement_: NCERT Class 12 *Themes in Indian History* Pt III (selective)
+
+**Art & Culture**
+- _Primary source_: Nitin Singhania (selective) **or** NCERT Class 11 *An Introduction to Indian Art*
+- _Supplement_: CCRT website, GI tags and UNESCO sites list
+
+**Ancient & Medieval**
+- _Primary source_: Old NCERT RS Sharma (Ancient), Satish Chandra (Medieval) **or** Tamil Nadu Class 11
+- _Supplement_: —
+
+**Geography**
+- _Primary source_: NCERT Class 11 (*Fundamentals of Physical Geography*, *India Physical Environment*), Class 12 (*India People & Economy*)
+- _Supplement_: Oxford / Orient BlackSwan atlas, **used daily**
+
+**Science & Tech**
+- _Primary source_: Current affairs only, plus NCERT Class 9–10 Science (basics)
+- _Supplement_: ISRO / PIB pages
+
+**Current Affairs**
+- _Primary source_: One daily newspaper (The Hindu / Indian Express) **or** a daily CA website, **plus** one monthly magazine (Vision IAS / Insights / ForumIAS)
+- _Supplement_: Vision IAS PT-365 (Mar–Apr 2027)
+
+**CSAT**
+- _Primary source_: RS Aggarwal *Quantitative Aptitude* (selective), *A Modern Approach to Verbal & Non-Verbal Reasoning*
+- _Supplement_: 12 years of CSAT PYQs
+
+**PYQs**
+- _Primary source_: Disha / Arihant topic-wise GS PYQ book (2013–2026)
+- _Supplement_: —
+
+**Test series**
+- _Primary source_: One full-length series (Vision / Forum / Insights / Vajiram)
+- _Supplement_: —
 
 ---
 
 ## 2. Daily Timetable (8-hour template)
 
-| Time | Activity | Duration |
-|---|---|---|
-| 06:00 – 06:30 | Wake up, revise yesterday's short notes | 30 min |
-| 06:30 – 08:00 | **Current affairs** (newspaper or daily CA) and make notes | 1.5 hr |
-| 08:00 – 08:45 | Breakfast / break | — |
-| 08:45 – 11:45 | **Static Subject A** (main subject of the week) | 3 hr |
-| 11:45 – 12:00 | Break | — |
-| 12:00 – 13:00 | **PYQs** on what you studied today | 1 hr |
-| 13:00 – 14:30 | Lunch and rest | — |
-| 14:30 – 16:00 | **Static Subject B** (secondary subject of the week) | 1.5 hr |
-| 16:00 – 16:15 | Break | — |
-| 16:15 – 17:15 | **CSAT** (alternate days: Quant/Reasoning, then Reading Comprehension) | 1 hr |
-| 17:15 – 18:30 | Exercise / walk (non-negotiable) | — |
-| 18:30 – 19:30 | **Map work** (15 min) and **revision** of the week's notes | 1 hr |
-| 19:30 – 21:00 | Dinner, free time | — |
-| 21:00 – 21:30 | Update the mistake register, plan tomorrow | 30 min |
-| 22:00 | Sleep (7–8 hrs of sleep improves memory) | — |
+**06:00 – 06:30**
+- _Activity_: Wake up, revise yesterday's short notes
+- _Duration_: 30 min
+
+**06:30 – 08:00**
+- _Activity_: **Current affairs** (newspaper or daily CA) and make notes
+- _Duration_: 1.5 hr
+
+**08:00 – 08:45**
+- _Activity_: Breakfast / break
+- _Duration_: —
+
+**08:45 – 11:45**
+- _Activity_: **Static Subject A** (main subject of the week)
+- _Duration_: 3 hr
+
+**11:45 – 12:00**
+- _Activity_: Break
+- _Duration_: —
+
+**12:00 – 13:00**
+- _Activity_: **PYQs** on what you studied today
+- _Duration_: 1 hr
+
+**13:00 – 14:30**
+- _Activity_: Lunch and rest
+- _Duration_: —
+
+**14:30 – 16:00**
+- _Activity_: **Static Subject B** (secondary subject of the week)
+- _Duration_: 1.5 hr
+
+**16:00 – 16:15**
+- _Activity_: Break
+- _Duration_: —
+
+**16:15 – 17:15**
+- _Activity_: **CSAT** (alternate days: Quant/Reasoning, then Reading Comprehension)
+- _Duration_: 1 hr
+
+**17:15 – 18:30**
+- _Activity_: Exercise / walk (non-negotiable)
+- _Duration_: —
+
+**18:30 – 19:30**
+- _Activity_: **Map work** (15 min) and **revision** of the week's notes
+- _Duration_: 1 hr
+
+**19:30 – 21:00**
+- _Activity_: Dinner, free time
+- _Duration_: —
+
+**21:00 – 21:30**
+- _Activity_: Update the mistake register, plan tomorrow
+- _Duration_: 30 min
+
+**22:00**
+- _Activity_: Sleep (7–8 hrs of sleep improves memory)
+- _Duration_: —
 
 **Sunday:** a sectional or full test in the morning (2 hrs), analysis (2 hrs), then a full revision of the week (3 hrs). Take the evening off.
 
@@ -80,12 +175,25 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 
 ## 3. Phase Overview
 
-| Phase | Weeks | Dates | Goal |
-|---|---|---|---|
-| **Phase 1 – Foundation** | 1–12 | 2 Nov 2026 – 24 Jan 2027 | First complete reading of every subject, with PYQs and notes |
-| **Phase 2 – Consolidation** | 13–16 | 25 Jan – 21 Feb 2027 | Revision 1, Economic Survey and Budget, CA compilation |
-| **Phase 3 – Test & Revise** | 17–22 | 22 Feb – 4 Apr 2027 | 2–3 full mocks a week, Revisions 2 and 3, fixing weak areas |
-| **Bonus Phase** | 23 → exam | 5 Apr – exam | Mocks, PT-365, final revision |
+**Phase 1 – Foundation**
+- _Weeks_: 1–12
+- _Dates_: 2 Nov 2026 – 24 Jan 2027
+- _Goal_: First complete reading of every subject, with PYQs and notes
+
+**Phase 2 – Consolidation**
+- _Weeks_: 13–16
+- _Dates_: 25 Jan – 21 Feb 2027
+- _Goal_: Revision 1, Economic Survey and Budget, CA compilation
+
+**Phase 3 – Test & Revise**
+- _Weeks_: 17–22
+- _Dates_: 22 Feb – 4 Apr 2027
+- _Goal_: 2–3 full mocks a week, Revisions 2 and 3, fixing weak areas
+
+**Bonus Phase**
+- _Weeks_: 23 → exam
+- _Dates_: 5 Apr – exam
+- _Goal_: Mocks, PT-365, final revision
 
 ---
 
@@ -378,15 +486,41 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 ## 6. PHASE 3 – Test & Revise (Weeks 17–22)
 
 **Weekly pattern for this phase:**
-| Day | Morning (3 hrs) | Afternoon (3 hrs) | Evening (2 hrs) |
-|---|---|---|---|
-| Mon | **Full GS mock** | Mock analysis | CA (daily) |
-| Tue | Revision 2 – Subject X | Revision – Subject Y | CSAT paper |
-| Wed | Revision 2 – Subject X | Weak-area fixing | CA |
-| Thu | **Full GS mock** | Mock analysis | CSAT |
-| Fri | Revision 2 – Subject Z | Revision of CA one-liners | CA |
-| Sat | **Full GS mock** (from Week 19) or revision | Analysis | CSAT paper |
-| Sun | Mistake register revision | Rest (half day) | Plan the next week |
+
+**Mon**
+- _Morning (3 hrs)_: **Full GS mock**
+- _Afternoon (3 hrs)_: Mock analysis
+- _Evening (2 hrs)_: CA (daily)
+
+**Tue**
+- _Morning (3 hrs)_: Revision 2 – Subject X
+- _Afternoon (3 hrs)_: Revision – Subject Y
+- _Evening (2 hrs)_: CSAT paper
+
+**Wed**
+- _Morning (3 hrs)_: Revision 2 – Subject X
+- _Afternoon (3 hrs)_: Weak-area fixing
+- _Evening (2 hrs)_: CA
+
+**Thu**
+- _Morning (3 hrs)_: **Full GS mock**
+- _Afternoon (3 hrs)_: Mock analysis
+- _Evening (2 hrs)_: CSAT
+
+**Fri**
+- _Morning (3 hrs)_: Revision 2 – Subject Z
+- _Afternoon (3 hrs)_: Revision of CA one-liners
+- _Evening (2 hrs)_: CA
+
+**Sat**
+- _Morning (3 hrs)_: **Full GS mock** (from Week 19) or revision
+- _Afternoon (3 hrs)_: Analysis
+- _Evening (2 hrs)_: CSAT paper
+
+**Sun**
+- _Morning (3 hrs)_: Mistake register revision
+- _Afternoon (3 hrs)_: Rest (half day)
+- _Evening (2 hrs)_: Plan the next week
 
 ### Week 17 (22–28 Feb) – Revision 2: Polity + Economy
 - [ ] Mocks #6, #7
@@ -429,12 +563,11 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 - [ ] Add CA for April and May 2027
 
 ### The last 15 days before the exam
-| Days left | Do |
-|---|---|
-| 15 → 8 | 1 mock every 2 days, revise the short notes (all subjects twice) |
-| 7 → 3 | No new material. Revise only the mistake register, CA one-liners, maps, and tables |
-| 2 | Light revision of Polity articles, Environment conventions, schemes |
-| 1 | Quick look at the notes before noon. Check the admit card, centre location, and documents. Sleep by 10 pm |
+
+- **15 → 8**: 1 mock every 2 days, revise the short notes (all subjects twice)
+- **7 → 3**: No new material. Revise only the mistake register, CA one-liners, maps, and tables
+- **2**: Light revision of Polity articles, Environment conventions, schemes
+- **1**: Quick look at the notes before noon. Check the admit card, centre location, and documents. Sleep by 10 pm
 
 ---
 
@@ -454,14 +587,29 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 
 ## 9. CSAT Plan (1 hr a day)
 
-| Weeks | Focus | Target |
-|---|---|---|
-| 1–4 | Basics: number system, %, ratio, P&L, averages, time and work | Concepts clear |
-| 5–8 | TSD, P&C, probability, DI, series, reasoning | 20 questions a day |
-| 9–12 | Geometry, clocks, calendars, puzzles, plus the first PYQ paper | Score 80+ |
-| 13–16 | 2 PYQ papers a week (2015–2026) | Score 100+ |
-| 17–22 | Timed full papers, 2 a week | Score 120+ |
-| **Every day** | 2 reading comprehension passages | Accuracy above 80% |
+**1–4**
+- _Focus_: Basics: number system, %, ratio, P&L, averages, time and work
+- _Target_: Concepts clear
+
+**5–8**
+- _Focus_: TSD, P&C, probability, DI, series, reasoning
+- _Target_: 20 questions a day
+
+**9–12**
+- _Focus_: Geometry, clocks, calendars, puzzles, plus the first PYQ paper
+- _Target_: Score 80+
+
+**13–16**
+- _Focus_: 2 PYQ papers a week (2015–2026)
+- _Target_: Score 100+
+
+**17–22**
+- _Focus_: Timed full papers, 2 a week
+- _Target_: Score 120+
+
+**Every day**
+- _Focus_: 2 reading comprehension passages
+- _Target_: Accuracy above 80%
 
 **Exam strategy for CSAT:** attempt RC and simple maths first, use logical elimination, aim for 75+ attempts with about 70% accuracy.
 
@@ -469,13 +617,11 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 
 ## 10. Working-Professional Adjustment (4–5 hrs/day)
 
-| Slot | Activity |
-|---|---|
-| 05:30 – 07:30 | Static subject (2 hrs) |
-| Commute / lunch | CA on your phone (45 min) |
-| 20:00 – 21:00 | PYQs and revision |
-| 21:00 – 21:45 | CSAT (alternate days) / maps |
-| Weekends | 10 hrs a day: static subjects, tests, CA compilation |
+- **05:30 – 07:30**: Static subject (2 hrs)
+- **Commute / lunch**: CA on your phone (45 min)
+- **20:00 – 21:00**: PYQs and revision
+- **21:00 – 21:45**: CSAT (alternate days) / maps
+- **Weekends**: 10 hrs a day: static subjects, tests, CA compilation
 
 **What to change:**
 - Stretch Phase 1 to Week 14 (cut Phase 2 to 2 weeks).
@@ -489,11 +635,16 @@ Any weeks between 4 Apr and the exam go into the **Bonus Phase** at the end of t
 
 After every mock, fill in:
 
-| Mock # | Date | Attempted | Correct | Wrong | Score | Cut-off est. | Weakest subject |
-|---|---|---|---|---|---|---|---|
-| 1 | | | | | | ~90 | |
-| 2 | | | | | | ~90 | |
-| ... | | | | | | | |
+**Mock 1**
+- _Cut-off est._: ~90
+- Date: ____ · Attempted: ____ · Correct: ____ · Wrong: ____ · Score: ____ · Weakest subject: ____
+
+**Mock 2**
+- _Cut-off est._: ~90
+- Date: ____ · Attempted: ____ · Correct: ____ · Wrong: ____ · Score: ____ · Weakest subject: ____
+
+**…**
+- Date: ____ · Attempted: ____ · Correct: ____ · Wrong: ____ · Score: ____ · Cut-off est.: ____ · Weakest subject: ____
 
 **For each wrong answer, put it in one of these buckets:**
 - **A – Didn't know the fact** → add it to the short notes
